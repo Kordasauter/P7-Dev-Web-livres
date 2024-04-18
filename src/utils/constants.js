@@ -9,7 +9,7 @@ export const API_ROUTES = {
 
 export const APP_ROUTES = {
   SIGN_UP: '/P7-Dev-Web-livres/Inscription',
-  SIGN_IN: '/P7-Dev-Web-livres/Connexion',
+  SIGN_IN: '/Connexion',
   ADD_BOOK: '/P7-Dev-Web-livres/Ajouter',
   BOOK: '/P7-Dev-Web-livres/livre/:id',
   UPDATE_BOOK: '/P7-Dev-Web-livres/livre/modifier/:id',
